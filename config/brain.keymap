@@ -106,7 +106,7 @@
             &kp LCTRL   &kp Z       &kp X       &kp C         &kp V           &kp B                        &kp N                 &kp M        &kp COMMA     &kp DOT     &kp SLASH      &kp SE_AE
                                             &lt NUMBER TAB    &kp SPACE       &kp RET                      &kp DEL               &lt SYMBOLS_SWE BSPC       &lt FUNC ESC
             >;
-        }
+        };
         symbols_swe_layer {
             bindings = <
                    &kp SE_DQT       &kp SE_AT         &kp SE_EQUAL        &kp SE_AMPS         &kp SE_BSLH                      &kp SE_LPAR      &kp SE_RPAR         &kp SE_PIPE          &kp SE_QMARK      &kp SE_PLUS
