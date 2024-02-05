@@ -118,10 +118,10 @@
 
         func_layer {
             bindings = <
-                   &kp F1    &kp F2  &kp F3   &kp F4      &kp F5                   &kp HOME    &kp PG_UP  &kp UP      &kp PG_DN   &kp PSCRN
-            &none  &kp F6    &kp F7  &kp F8   &kp F9      &kp F10                  &kp END     &kp LEFT   &kp DOWN    &kp RIGHT   &none       &kp C_VOL_UP
-            &none  &kp F11   &kp F12 &none    &none       &none                    &none       &kp C_PREV &kp C_PP    &kp C_NEXT  &kp K_MUTE  &kp C_VOL_DN
-                                              &key_repeat &trans   &trans  &trans  &trans      &none
+                   &kp F1         &kp F2       &kp F3          &kp F4            &kp F5                   &kp HOME    &kp PG_UP  &kp UP      &kp PG_DN   &kp PSCRN
+            &none  &hs LGUI F6    &hm LALT F7  &hm LSHIFT F8   &hm LCTRL F9      &kp F10                  &kp END     &kp LEFT   &kp DOWN    &kp RIGHT   &none       &kp C_VOL_UP
+            &none  &kp F11        &kp F12      &none           &none             &none                    &none       &kp C_PREV &kp C_PP    &kp C_NEXT  &kp K_MUTE  &kp C_VOL_DN
+                                                               &key_repeat       &trans   &trans  &trans  &trans      &none
             >;
         };
 
