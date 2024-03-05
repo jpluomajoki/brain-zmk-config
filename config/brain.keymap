@@ -47,7 +47,7 @@
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
             tapping-term-ms = <200>;
-            bindings = <&lt NUMBER TAB>, <&kp RGUI>;
+            bindings = <&lt NUMBER TAB>, <&kp LGUI>;
         };
 
     };
