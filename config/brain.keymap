@@ -17,6 +17,11 @@
 #define NUMBER      3
 #define SETTINGS    4
 
+
+&lt {
+    tapping-term-ms = <200>;
+};
+
 / {
     behaviors {
         hm: homerow_mods {
@@ -95,6 +100,7 @@
         };
     }; */
 
+
     keymap {
         compatible = "zmk,keymap";
 
@@ -111,7 +117,7 @@
                    &kp SE_DQT       &kp SE_AT         &kp SE_EQUAL        &kp SE_AMPS         &kp SE_BSLH                      &kp SE_LPAR      &kp SE_RPAR         &kp SE_PIPE          &kp SE_QMARK      &kp SE_PLUS
             &none  &hs LGUI SE_SQT  &hm LALT SE_STAR  &hm LSHIFT SE_DLLR  &hm LCTRL SE_EXCL   &kp SE_TILDE                     &kp SE_LBKT      &kp SE_RBKT         &hm RSHIFT SE_EQUAL  &hm RALT SE_PIPE  &hm RGUI SE_MINUS     &kp SE_GRAVE
             &none  &kp SE_PRCNT     &kp SE_HASH       &kp SE_CARET        &kp SE_DLLR         &kp SE_MINUS                     &kp SE_LBRC      &kp SE_RBRC         &kp SE_LT            &kp SE_GT         &kp SE_UNDER          &none
-                                                                          &kp SLASH           &kp SE_FSLH  &trans      &trans  &trans        &none
+                                                                          &kp SLASH           &kp SE_FSLH  &trans      &trans  &trans        &trans
             >;
         }; 
 
@@ -120,7 +126,7 @@
                    &kp F1         &kp F2       &kp F3          &kp F4            &kp F5                   &kp HOME    &kp PG_UP  &kp UP      &kp PG_DN   &kp PSCRN
             &none  &hs LGUI F6    &hm LALT F7  &hm LSHIFT F8   &hm LCTRL F9      &kp F10                  &kp END     &kp LEFT   &kp DOWN    &kp RIGHT   &none       &kp C_VOL_UP
             &none  &kp F11        &kp F12      &none           &none             &none                    &none       &kp C_PREV &kp C_PP    &kp C_NEXT  &kp K_MUTE  &kp C_VOL_DN
-                                                               &key_repeat       &trans   &trans  &trans  &trans      &none
+                                                               &key_repeat       &trans   &trans  &trans  &trans      &trans
             >;
         };
 
