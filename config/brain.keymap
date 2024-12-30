@@ -73,7 +73,7 @@
         combo_settings {
             timeout-ms = <50>;
             key-positions = <34 35>;
-            bindings = <&kp ESC>;
+            bindings = <&mo SETTINGS>;
         };
       };
 /*    combos {
