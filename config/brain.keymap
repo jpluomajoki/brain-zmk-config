@@ -135,7 +135,7 @@
         }; 
 
         func_layer {
-            display-name = "Func";
+            display-name = "Fn/Nav";
             bindings = <
                    &kp F1         &kp F2       &kp F3          &kp F4            &kp F5                   &kp HOME    &kp PG_UP  &kp UP      &kp PG_DN   &kp PSCRN
             &none  &hs LGUI F6    &hm LALT F7  &hm LSHIFT F8   &hm LCTRL F9      &kp F10                  &kp END     &kp LEFT   &kp DOWN    &kp RIGHT   &none       &kp C_VOL_UP
