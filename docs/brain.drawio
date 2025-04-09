@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T06:19:12.311Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="1sQawM2XdbyKYRlmWrwS" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.9">
   <diagram name="brain" id="ZRLf6JSjRhF3UeJAD4nz">
-    <mxGraphModel dx="1475" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1490" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rad2TlyHusP4lz5AHPMq-0" />
         <mxCell id="rad2TlyHusP4lz5AHPMq-1" parent="rad2TlyHusP4lz5AHPMq-0" />
@@ -109,7 +109,7 @@
         <mxCell id="rad2TlyHusP4lz5AHPMq-36" value="@" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fontFamily=Verdana;fontStyle=1;fontColor=#AFB9C7;fillColor=#383E47;rounded=1;" parent="rad2TlyHusP4lz5AHPMq-1" vertex="1">
           <mxGeometry x="138" y="424" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rad2TlyHusP4lz5AHPMq-37" value="=" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fontFamily=Verdana;fontStyle=1;fontColor=#AFB9C7;fillColor=#383E47;rounded=1;" parent="rad2TlyHusP4lz5AHPMq-1" vertex="1">
+        <mxCell id="rad2TlyHusP4lz5AHPMq-37" value="€" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fontFamily=Verdana;fontStyle=1;fontColor=#AFB9C7;fillColor=#383E47;rounded=1;" parent="rad2TlyHusP4lz5AHPMq-1" vertex="1">
           <mxGeometry x="178" y="409" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rad2TlyHusP4lz5AHPMq-38" value="&amp;amp;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fontFamily=Verdana;fontStyle=1;fontColor=#AFB9C7;fillColor=#383E47;rounded=1;" parent="rad2TlyHusP4lz5AHPMq-1" vertex="1">
