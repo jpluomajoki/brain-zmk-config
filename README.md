@@ -23,7 +23,7 @@ Modified from iamDrakkir's original config into QWERTY with some additional modi
 |  `_`   | Underscore                   |    `U`    | None               |
 |  `-`   | Hyphen, minus, or dash       |    `M`    | None               |
 |  `+`   | Plus                         |    `P`    | **P**lus           |
-|  `=`   | Equal                        |    `E`    | **E**qual          |
+|  `€`   | Euro                         |    `E`    | **E**uro          |
 |  `\`   | Backslash                    |    `B`    | Non                |
 |  `\|`  | Vertical bar, pipe, or or    |    `I`    | **I**≈\|           |
 |  `'`   | Apostrophe, Single quote     |    `A`    | **A**postrophe     |
